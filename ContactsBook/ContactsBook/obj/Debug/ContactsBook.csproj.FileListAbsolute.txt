@@ -1,0 +1,8 @@
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\bin\Debug\ContactsBook.exe.config
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\bin\Debug\ContactsBook.exe
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\bin\Debug\ContactsBook.pdb
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\obj\Debug\ContactsBook.csproj.AssemblyReference.cache
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\obj\Debug\ContactsBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\obj\Debug\ContactsBook.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\obj\Debug\ContactsBook.exe
+C:\Users\Lenovo-Legion-Shanky\OneDrive\Pulpit\FirstProject\ContactsBook\ContactsBook\obj\Debug\ContactsBook.pdb
